@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pokiemon/static/css/main.5eebb881.css",
+    "main.js": "/pokiemon/static/js/main.1febfbb3.js",
+    "index.html": "/pokiemon/index.html",
+    "main.5eebb881.css.map": "/pokiemon/static/css/main.5eebb881.css.map",
+    "main.1febfbb3.js.map": "/pokiemon/static/js/main.1febfbb3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5eebb881.css",
+    "static/js/main.1febfbb3.js"
+  ]
+}
